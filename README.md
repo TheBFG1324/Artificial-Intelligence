@@ -24,10 +24,3 @@ In my Artificial Intelligence class, I worked on a series of projects focused on
 ### Markov Models:
 - Simulated **Markov Chains** for probabilistic modeling and decision-making.
 
-## Skills Gained
-
-- Algorithm Design: Backtracking, A*, Alpha-Beta Pruning.
-- Optimization Techniques: Simulated Annealing, Monte Carlo Simulations.
-- Reinforcement Learning: Policy Training and Evaluation.
-- Probabilistic Modeling: Markov Chains.
-
